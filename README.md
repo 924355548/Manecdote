@@ -1,0 +1,2 @@
+# Manecdote
+Leetcode题解
